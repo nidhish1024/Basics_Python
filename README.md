@@ -1,2 +1,3 @@
 # Basics_Python
-Some Python Basics
+
+This repo is for just basics of python nothing much.
