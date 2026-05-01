@@ -19,5 +19,5 @@ def apply_discount(price,discount):
 price=int(input('Enter the price:'))
 discount=int(input('Enter the discount:'))
 price_after_discount=apply_discount(price,discount)
-print('Price after applying discount:',price_after_discount)
+print('Output:',price_after_discount)
     
