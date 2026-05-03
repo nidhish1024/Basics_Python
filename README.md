@@ -13,7 +13,3 @@ A command-line tool to:
 ### 2. Discount Function
 A simple program to calculate discounted prices.
 
-## How to Run
-
-```bash
-python caesar_cipher_cli.py
