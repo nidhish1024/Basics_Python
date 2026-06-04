@@ -13,3 +13,5 @@ A command-line tool to:
 ### 2. Discount Function
 A simple program to calculate discounted prices.
 
+### 3. Rock Paper Scissors
+A command-line implementation of the classic Rock, Paper, Scissors game.
